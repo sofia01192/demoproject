@@ -1,0 +1,30 @@
+.about-content h2{
+	font-size:42px;
+}
+.hide{
+	display:none;
+}
+.fw-contact-form .cf-input{
+	width:100% !important;
+}
+.margin-top-20px{
+	margin-top:20px;
+}
+
+.contact-form select{
+	border: none !important;
+    border-bottom: 2px solid #e3e3e3 !important;
+    padding-bottom: 15px !important;
+}
+
+.contact-form select option{
+	color: #b0b0b0;
+}
+
+.site-btn{
+	padding: 12px !important;
+	min-width:170px !important;
+}
+.our-approach{
+	background:url('img/our-approach.jpg');
+}

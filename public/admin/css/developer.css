@@ -1,0 +1,72 @@
+.bg-gradient-primary{
+	background: #e0afaf;
+	background-image: #e0afaf;
+}
+.sidebar-dark .nav-item .nav-link, .sidebar-dark .nav-item.active .nav-link{
+	color:#cc0000;
+}
+.sidebar .nav-item .nav-link{
+	padding:10px !important;
+}
+.collapse-inner hr{
+	margin:5px 0px 0px 0px !important;
+}
+a.collapse-item{
+	padding:5px !important;
+}
+.btn-primary{
+	background-color:#cc0000;
+	border-color:#cc0000;
+}
+.btn-primary:hover{
+	background: #e0afaf !important;
+}
+h2 a{
+	float:right !important;
+	margin-right: 20px;
+}
+input#title{
+	margin-left:10px !important;
+}
+.pagination {
+	margin: auto; 
+	overflow: hidden; 
+	width:350px; 
+	background: #e5e5e5;
+	padding:5px;
+}
+.pagination li { 
+	display: block; 
+	float: left; 
+	font-size: 12px; 
+	height: 26px; 
+	line-height: 26px; 
+	text-align: center; 
+	opacity:0.5; 
+}
+.pagination a {
+	color: #000000; 
+	display: block; 
+	float: left; 
+	font-size: 12px; 
+	height: 26px; 
+	line-height: 26px; 
+	margin: 0 2px; 
+	text-align: center; 
+	padding:0 5px 0 5px; 
+	opacity:1; 
+}
+.pagination a:hover {
+	border:1px solid #66676a;
+	background: #fff;
+}
+.form-actions td{
+	padding:10px;
+}
+ul.no-list-style{
+	list-style: none !important;
+	line-height: 30px !important;
+}
+ul.no-list-style input{
+	margin-right:10px !important;
+}
